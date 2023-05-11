@@ -1,0 +1,12 @@
+[submodule "submodules/supervised-learning"]
+	path = submodules/supervised-learning
+	url = https://github.com/Data-Science-Boot-Camp/supervised-learning
+[submodule "submodules/statistical-inference"]
+	path = submodules/statistical-inference
+	url = https://github.com/Data-Science-Boot-Camp/statistical-inference
+[submodule "submodules/stats-programming-intro"]
+	path = submodules/stats-programming-intro
+	url = https://github.com/Data-Science-Boot-Camp/stats-programming-intro
+[submodule "submodules/modules_1_2"]
+	path = submodules/modules_1_2
+	url = https://github.com/Data-Science-Boot-Camp/modules_1_2

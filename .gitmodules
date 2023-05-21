@@ -10,3 +10,9 @@
 [submodule "submodules/modules_1_2"]
 	path = submodules/modules_1_2
 	url = https://github.com/Data-Science-Boot-Camp/modules_1_2
+[submodule "unsupervised-learning"]
+	path = unsupervised-learning
+	url = https://github.com/Data-Science-Boot-Camp/unsupervised-learning.git
+[submodule "submodules/deep-learning"]
+	path = submodules/deep-learning
+	url = https://github.com/Data-Science-Boot-Camp/deep-learning.git

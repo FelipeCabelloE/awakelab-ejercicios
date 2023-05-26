@@ -13,3 +13,6 @@
 [submodule "submodules/unsupervised-learning"]
 	path = submodules/unsupervised-learning
 	url = https://github.com/Data-Science-Boot-Camp/unsupervised-learning
+[submodule "submodules/supervised-learning"]
+	path = submodules/supervised-learning
+	url = https://github.com/Data-Science-Boot-Camp/supervised-learning

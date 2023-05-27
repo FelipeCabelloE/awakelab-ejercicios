@@ -16,3 +16,6 @@
 [submodule "submodules/supervised-learning"]
 	path = submodules/supervised-learning
 	url = https://github.com/Data-Science-Boot-Camp/supervised-learning
+[submodule "submodules/big-data"]
+	path = submodules/big-data
+	url = https://github.com/Data-Science-Boot-Camp/big-data
